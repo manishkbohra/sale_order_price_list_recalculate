@@ -8,7 +8,7 @@
     'description': 'In this module added a new feature related to the re-calculate price list in the sales order',
     'category': 'Other',
     'author': 'Manish Bohra',
-    'website': 'manishbohra1994@gmail.com',
+    'website': 'manishkumarbohra@outlook.com',
     'license': 'AGPL-3',
     'depends': ['sale'],
     'installable': True,
