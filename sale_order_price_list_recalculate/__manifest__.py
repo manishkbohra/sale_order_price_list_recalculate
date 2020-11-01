@@ -9,8 +9,9 @@
     'category': 'Other',
     'author': 'Manish Bohra',
     'website': 'manishkumarbohra@outlook.com',
-    'license': 'AGPL-3',
-    'depends': ['sale'],
+    'license': 'LGPL-3',
+    'images': ['static/description/pricelist.gif'],
+    'depends': ['sale','sale_management'],
     'installable': True,
     'auto_install': False,
 }
