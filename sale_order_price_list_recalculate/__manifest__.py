@@ -8,7 +8,7 @@
     'description': 'This module added a new feature related to the re-calculate order line cost according to the price list onchanage.',
     'category': 'Other',
     'author': 'Manish Bohra',
-    'website': 'manishkumarbohra@outlook.com',
+    'website': 'www.linkedin.com/in/manishkumarbohra',
     'license': 'LGPL-3',
     'images': ['static/description/pricelist.gif'],
     'depends': ['sale','sale_management'],
