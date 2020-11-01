@@ -5,7 +5,7 @@
     'name': 'Sale Price Recalculate',
     'version': '1.0',
     'summary': 'This module manage to product price list re-calculation',
-    'description': 'In this module added a new feature related to the re-calculate price list in the sales order',
+    'description': 'This module added a new feature related to the re-calculate order line cost according to the price list onchanage.',
     'category': 'Other',
     'author': 'Manish Bohra',
     'website': 'manishkumarbohra@outlook.com',
