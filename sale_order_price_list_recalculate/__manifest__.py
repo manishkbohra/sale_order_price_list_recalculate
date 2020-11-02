@@ -6,7 +6,7 @@
     'version': '1.0',
     'summary': 'This module manage to product price list re-calculation',
     'description': 'This module added a new feature related to the re-calculate order line cost according to the price list onchanage.',
-    'category': 'Other',
+    'category': 'Sales',
     'author': 'Manish Bohra',
     'website': 'www.linkedin.com/in/manishkumarbohra',
     'license': 'LGPL-3',
