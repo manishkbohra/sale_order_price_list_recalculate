@@ -3,7 +3,7 @@
 
 {
     'name': 'Sale Price Recalculate',
-    'version': '1.0',
+    'version': '14.0',
     'summary': 'This module manage to product price list re-calculation',
     'description': 'This module added a new feature related to the re-calculate order line cost according to the price list onchanage.',
     'category': 'Sales',
@@ -14,4 +14,5 @@
     'depends': ['sale','sale_management'],
     'installable': True,
     'auto_install': False,
+    'application': True,
 }
