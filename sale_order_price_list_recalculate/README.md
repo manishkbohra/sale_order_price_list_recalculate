@@ -7,9 +7,6 @@ This module add onchange method on sale order:
 
 * Order line recalculation according to the customer and price list using onchange method.
 
-It is launched manually as a button to get the user decide if he/she wants to
-recalculate prices when pricelist is changed or after duplicating a sale order
-to update or not sales information.
 
 **Table of contents**
 
